@@ -1,29 +1,30 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Maria Jose Castro Gomez
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Maria Jose 
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher and incoming PhD student in the Neuroscience and Mental Health Institute, University of Alberta 
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Universidad de Costa Rica 
+  url: "https://vinv.ucr.ac.cr/sigpro/web/researchers/115630413"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include the interplay between neuropsychology, genetics and neuroimaging
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Neuropsychology
+- Neuroimaging
+- Genetics
+- Statistics
 
 education:
   courses:
@@ -70,6 +71,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Maria Jose Castro is a researcher that focuses in neuropsychology, neuroimaging and genetics with a particular interest in quantitative models and statistics. 
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
