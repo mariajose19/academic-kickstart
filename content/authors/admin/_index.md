@@ -71,6 +71,5 @@ user_groups:
 - Visitors
 ---
 
-Maria Jose Castro is a researcher that focuses in neuropsychology, neuroimaging and genetics with a particular interest in quantitative models and statistics. 
+Maria Jose Castro-Gomez is a researcher that focuses in neuropsychology, neuroimaging and genetics with a particular interest in quantitative models and statistics. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
