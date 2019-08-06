@@ -18,17 +18,26 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = ""
-  company = ""
+  title = "Acting professor"
+  company = "Universidad de Costa Rica"
   company_url = ""
-  location = ""
-  date_start = ""
-  date_end = ""
-  description = """
+  location = "Costa Rica"
+  date_start = "Agosto"
+  date_end = "Diciembre"
+  description = "Acting professor of descriptive and inferential statistics""
   Responsibilities include:
   
   *
   """
+   title = "Acting professor"
+  company = "Universidad de Costa Rica"
+  company_url = ""
+  location = "Costa Rica"
+  date_start = "Agosto"
+  date_end = "Diciembre"
+  description = "Acting professor of neuropsychology""
+  Responsibilities include:
+  
 
 
 +++
